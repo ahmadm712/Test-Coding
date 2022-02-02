@@ -1,3 +1,4 @@
 ## Test Coding GOERS
 
-### Hasil Output Soal No 1
+### Hasil Output
+![Auth](images/output.png)
